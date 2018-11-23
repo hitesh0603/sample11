@@ -1,0 +1,80 @@
+﻿body {
+    background-color: turquoise;
+}
+
+.Mainbox {
+    margin-top: 200px;
+    margin-left: 125px;
+    width: 90%;
+}
+
+.searchContent {
+    width: 90%;
+    background-color: darkgray;
+}
+
+.videoContent {
+    width: 90%;
+    height: 150px;
+    background-color: darkgray;
+}
+
+.searchText {
+    width: 70%;
+    margin-left: 112px;
+    margin-top: 35px;
+    height: 30px;
+    margin-bottom: 15px;
+}
+
+.youtubeContent, .netflixContent {
+    cursor: -webkit-grabbing;
+    position: absolute;
+    width: 10%;
+    margin-left: 0;
+    margin-left: 70px;
+}
+
+.netflixContent {
+    margin-left: 80px;
+}
+
+.primeContentDiv, .fmoviesContent {
+    cursor: -webkit-grabbing;
+    position: absolute;
+    width: 10%;
+    margin-left: 32%;
+    margin-right: 0;
+}
+
+.hotStarContent, .fbContent {
+    cursor: -webkit-grabbing;
+    position: absolute;
+    width: 10%;
+    margin-left: 60%;
+    margin-right: 0;
+}
+
+.youtubeIcon {
+    width: 100px;
+    margin-top: 12px;
+}
+
+.youtubetxt, .netflixtxt {
+    margin-left: 23px;
+}
+
+.hotStartxt, .fbtxt, .fmoviestxt, .primetxt {
+    margin-left: 11px;
+}
+
+.primeIcon, .fmoviesIcon, .hotStarIcon, .netflixIcon {
+    width: 80px;
+    margin-top: 12px;
+}
+
+
+.fbIcon {
+    width: 90px;
+    margin-top: 10px;
+}
